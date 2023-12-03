@@ -1,10 +1,21 @@
+# About a clone
 
  ... this is clone of IGH EtherCAT Master version stable-1.5.2 
      adapted for use with Lenze servo inverters i950  
      original master works like a charm on Lenze series 8400
      but is kind of 'sloppy' with new i950 
-     
-... continued with original README from IGH:
+
+## STABLE VERSION
+
+... there is NO stable version, this is EARLY BETA
+    
+
+### WORK IN PROGRESS
+
+... 2023-12-03 commit:  First 000 , still EARLY BETA    
+
+
+# ORIGINAL readme from IGH EtherCAT master
 
 This is the README file of the IgH EtherCAT Master.
 
