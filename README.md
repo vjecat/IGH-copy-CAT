@@ -5,6 +5,10 @@
      original master works like a charm on Lenze series 8400
      but is kind of 'sloppy' with new i950 
 
+     here is screenshot as example what is final goal
+
+     ![screenshot](./cstruc.png)
+
 ## STABLE VERSION
 
 ... there is NO stable version, this is EARLY BETA
