@@ -7,7 +7,7 @@
 
      here is screenshot as example what is final goal
 
-     ![terminal](./cstruc.png?raw=true "Screenshot")
+    ![cstruc](https://github.com/vjecat/IGH-copy-CAT/assets/152702037/65bd6c9c-05e3-4fab-b993-97e6e3b297dc)
 
 ## STABLE VERSION
 
