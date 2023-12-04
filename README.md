@@ -7,7 +7,7 @@
 
      here is screenshot as example what is final goal
 
-     ![screenshot](./cstruc.png)
+     ![terminal](./cstruc.png?raw=true "Screenshot")
 
 ## STABLE VERSION
 
