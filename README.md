@@ -2,13 +2,16 @@
 
  ... this is clone of IGH EtherCAT Master version stable-1.5.2 
      adapted for use with Lenze servo inverters i950  
+     
      original master works like a charm on Lenze series 8400
      but is kind of 'sloppy' with new i950 
 
 ![cstruc](https://github.com/vjecat/IGH-copy-CAT/assets/152702037/65bd6c9c-05e3-4fab-b993-97e6e3b297dc)
 
 ... slave configuration ( as this one from screenshot ) can be set up from user app, 
-     but is not persistent, as soon as user app is reset PDOs will not workinng   
+     but is not persistent, as soon as user app is reset PDOs will not working any more ...
+     if you try read FMMU register 0x600 you will get zeros 
+... goal of this project is to insert twincat startup procedure into master kernel module
  
 ## STABLE VERSION
 
