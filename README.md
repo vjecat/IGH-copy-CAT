@@ -3,8 +3,10 @@
  ... this is clone of IGH EtherCAT Master version stable-1.5.2 
      adapted for use with Lenze servo inverters i950  
      
-     original master works like a charm on Lenze series 8400
-     but is kind of "sloppy" with new i950 
+     original master works like a charm on Lenze series 8400 ,
+     but is kind of sloppy with new i950
+     
+... goal of this project is to insert twincat startup procedure into master kernel module     
 
 ![cstruc](https://github.com/vjecat/IGH-copy-CAT/assets/152702037/65bd6c9c-05e3-4fab-b993-97e6e3b297dc)
 
@@ -14,7 +16,7 @@
 
      ' ethercat reg_read -p 0 -t uint32 0x600 '
      
-... goal of this project is to insert twincat startup procedure into master kernel module
+
  
 ## STABLE VERSION
 
