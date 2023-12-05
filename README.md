@@ -7,6 +7,9 @@
 
 ![cstruc](https://github.com/vjecat/IGH-copy-CAT/assets/152702037/65bd6c9c-05e3-4fab-b993-97e6e3b297dc)
 
+... slave configuration ( as this one from screenshot ) can be set up from user app, 
+     but is not persistent, as soon as user app is reset PDOs will not workinng   
+ 
 ## STABLE VERSION
 
 ... there is NO stable version, this is EARLY BETA
